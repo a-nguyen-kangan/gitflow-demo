@@ -14,6 +14,6 @@
     <NavLi href="/products">Products</NavLi>
   </NavUl>
 </Navbar>
-<div class="container mx-auto px-4 py-8 bg-gray-200 h-screen">
+<div class="container mx-auto px-4 py-8 bg-gray-600 h-screen">
   <slot />
 </div>
