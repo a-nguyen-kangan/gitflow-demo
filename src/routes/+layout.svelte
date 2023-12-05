@@ -5,7 +5,8 @@
 
 <Navbar class="bg-red-600">
   <NavBrand href="/">
-    <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Flowbite</span>
+    <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Random Products
+    </span>
   </NavBrand>
   <NavHamburger  />
   <NavUl >
