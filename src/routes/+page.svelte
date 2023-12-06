@@ -42,7 +42,9 @@
   </script>
   
   <Table hoverable={true}>
-    <TableHead>
+    
+    <TableHead><h1>Cars</h1></TableHead><br>
+      <TableHead>
       <TableHeadCell on:click={() => sortTable('id')}>ID</TableHeadCell>
       <TableHeadCell on:click={() => sortTable('maker')}>Maker</TableHeadCell>
       <TableHeadCell on:click={() => sortTable('type')}>Type</TableHeadCell>

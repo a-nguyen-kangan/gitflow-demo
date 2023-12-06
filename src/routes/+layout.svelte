@@ -5,7 +5,7 @@
 
 <Navbar class="bg-red-600">
   <NavBrand href="/">
-    <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Random Products
+    <span class="self-center whitespace-nowrap text-xl font-semibold text-white dark:text-white">Random Products
     </span>
   </NavBrand>
   <NavHamburger  />
@@ -13,6 +13,7 @@
     <NavLi href="/">Home</NavLi>
     <NavLi href="/about">About</NavLi>
     <NavLi href="/products">Products</NavLi>
+    <NavLi href="/Larsen">Larsen</NavLi>
   </NavUl>
 </Navbar>
 <div class="container mx-auto px-4 py-8 bg-gray-600 h-screen">
