@@ -13,6 +13,7 @@
     <NavLi href="/">Home</NavLi>
     <NavLi href="/about">About</NavLi>
     <NavLi href="/products">Products</NavLi>
+    <NavLi href="/Larsen">Larsen</NavLi>
   </NavUl>
 </Navbar>
 <div class="container mx-auto px-4 py-8 bg-gray-600 h-screen">
