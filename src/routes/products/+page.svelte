@@ -15,6 +15,6 @@
       { alt: 'bag', src: 'https://flowbite.s3.amazonaws.com/docs/gallery/square/image-11.jpg' }
     ];
   </script>
-<h1> Product page</h1>
+<Heading> Product page</Heading>
   
   <Gallery items={images} class="gap-4 grid-cols-2 md:grid-cols-3" />
